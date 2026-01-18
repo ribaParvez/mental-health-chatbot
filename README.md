@@ -1,4 +1,4 @@
-# calmconnect
+# mental health chat bot
 
 # how to run this app
 
@@ -15,5 +15,6 @@ cd mhc
 
 streamlit run main.py
 ```
+
 
 Access the app at the url given
